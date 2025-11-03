@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "Breaking News",
+    "content": "AI beats human at chess"
+  },
+  {
+    "id": "2",
+    "title": "Tech Update",
+    "content": "New iPhone released today"
+  },
+  {
+    "id": "3",
+    "title": "Sports News",
+    "content": "Local team wins championship"
+  },
+  {
+    "id": "4",
+    "title": "Weather Alert",
+    "content": "Heavy rain expected tomorrow"
+  },
+  {
+    "id": "5",
+    "title": "Health Tips",
+    "content": "Drink water daily for better health"
+  },
+  {
+    "id": "6",
+    "title": "Politics Today",
+    "content": "Government passes new law"
+  },
+  {
+    "id": "7",
+    "title": "Education Update",
+    "content": "New syllabus released for schools"
+  },
+  {
+    "id": "8",
+    "title": "Entertainment",
+    "content": "New movie breaks box office records"
+  },
+  {
+    "id": "9",
+    "title": "Finance News",
+    "content": "Stock market hits new high"
+  },
+  {
+    "id": "10",
+    "title": "Travel Tips",
+    "content": "Top 10 destinations for 2025"
+  },
+  {
+    "id": "11",
+    "title": "Science",
+    "content": "New discovery in space exploration"
+  },
+  {
+    "id": "12",
+    "title": "Health Alert",
+    "content": "Flu season is coming, get vaccinated"
+  },
+  {
+    "id": "13",
+    "title": "Tech Review",
+    "content": "Latest smartphones compared"
+  },
+  {
+    "id": "14",
+    "title": "Sports Update",
+    "content": "Olympics 2025 preparations start"
+  },
+  {
+    "id": "15",
+    "title": "Weather Forecast",
+    "content": "Sunny weekend ahead"
+  },
+  {
+    "title": "AI Technology in Healthcare",
+    "content": "\"AI is revolutionizing healthcare with new diagnostic tools, predictive analytics, and robotic surgery.\"\n ",
+    "id": "16",
+    "date": "2025-10-01T17:31:31.976Z"
+  },
+  {
+    "title": "Chess championship",
+    "content": "D.Gukesh Become World Chess Champion",
+    "id": "17",
+    "date": "2025-10-01T17:34:47.868Z"
+  },
+  {
+    "title": "Sport",
+    "content": "India Win Asian Chanpionship",
+    "id": "18",
+    "date": "2025-10-02T13:12:15.576Z"
+  },
+  {
+    "title": "Cricket",
+    "content": "Indian team at reach Final",
+    "id": "19",
+    "date": "2025-10-31T09:07:56.934Z"
+  }
+]
